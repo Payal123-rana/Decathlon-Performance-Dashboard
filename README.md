@@ -177,6 +177,11 @@ Through this project, I gained practical experience in:
 - Converting business requirements into analytical reports.
 - Presenting data in a clear and business-friendly format.
 
+
+
+  <img width="960" height="538" alt="image" src="https://github.com/user-attachments/assets/0e243534-d1de-4025-a647-29c6b7816283" />
+
+
 ## 👩‍💻 About Me
 
 **Payal Rana | Aspiring Data Analyst**
